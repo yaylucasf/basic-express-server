@@ -8,4 +8,4 @@ app.get('/', (_, response) => {
 
 app.listen(port, () => {
     console.log('Running...');
-})
+});
